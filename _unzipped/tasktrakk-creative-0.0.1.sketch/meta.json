@@ -1,0 +1,33 @@
+{
+    "commit": "ebe35af5ba78090fd351ed427ecaafac003e0331",
+    "pagesAndArtboards": {
+        "0AA36B15-EE12-4D0D-BCD2-D499943B16D2": {
+            "name": "Dashboard",
+            "artboards": {
+                "AC4222D2-4011-4F94-BB98-86FF18CE28D5": {
+                    "name": "Desktop HD"
+                }
+            }
+        }
+    },
+    "version": 121,
+    "fonts": [],
+    "compatibilityVersion": 99,
+    "app": "com.bohemiancoding.sketch3",
+    "autosaved": 0,
+    "variant": "NONAPPSTORE",
+    "created": {
+        "commit": "ebe35af5ba78090fd351ed427ecaafac003e0331",
+        "appVersion": "59.1",
+        "build": 86144,
+        "app": "com.bohemiancoding.sketch3",
+        "compatibilityVersion": 99,
+        "version": 121,
+        "variant": "NONAPPSTORE"
+    },
+    "saveHistory": [
+        "NONAPPSTORE.86144"
+    ],
+    "appVersion": "59.1",
+    "build": 86144
+}
