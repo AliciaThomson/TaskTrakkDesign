@@ -11,7 +11,10 @@
         }
     },
     "version": 121,
-    "fonts": [],
+    "fonts": [
+        "Quicksand-Bold",
+        "Montserrat-Regular"
+    ],
     "compatibilityVersion": 99,
     "app": "com.bohemiancoding.sketch3",
     "autosaved": 0,
