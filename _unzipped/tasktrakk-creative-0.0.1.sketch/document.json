@@ -9,13 +9,82 @@
         "images": [],
         "colorAssets": [],
         "exportPresets": [],
-        "gradientAssets": [],
+        "gradientAssets": [
+            {
+                "_class": "MSImmutableGradientAsset",
+                "do_objectID": "85FD3255-333C-4930-970B-BA0F7534C2F5",
+                "name": "",
+                "gradient": {
+                    "_class": "gradient",
+                    "elipseLength": 0,
+                    "from": "{0, 1}",
+                    "gradientType": 0,
+                    "to": "{1, 0}",
+                    "stops": [
+                        {
+                            "_class": "gradientStop",
+                            "position": 0,
+                            "color": {
+                                "_class": "color",
+                                "alpha": 1,
+                                "blue": 0.9098039215686274,
+                                "green": 0.396078431372549,
+                                "red": 0.5607843137254902
+                            }
+                        },
+                        {
+                            "_class": "gradientStop",
+                            "position": 1,
+                            "color": {
+                                "_class": "color",
+                                "alpha": 1,
+                                "blue": 0.9639305988254344,
+                                "green": 0.6102318066060026,
+                                "red": 0.5513709785503933
+                            }
+                        }
+                    ]
+                }
+            }
+        ],
         "imageCollection": {
             "_class": "imageCollection",
             "images": {}
         },
         "colors": [],
-        "gradients": []
+        "gradients": [
+            {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0, 1}",
+                "gradientType": 0,
+                "to": "{1, 0}",
+                "stops": [
+                    {
+                        "_class": "gradientStop",
+                        "position": 0,
+                        "color": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 0.9098039215686274,
+                            "green": 0.396078431372549,
+                            "red": 0.5607843137254902
+                        }
+                    },
+                    {
+                        "_class": "gradientStop",
+                        "position": 1,
+                        "color": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 0.9639305988254344,
+                            "green": 0.6102318066060026,
+                            "red": 0.5513709785503933
+                        }
+                    }
+                ]
+            }
+        ]
     },
     "foreignLayerStyles": [],
     "foreignSymbols": [],

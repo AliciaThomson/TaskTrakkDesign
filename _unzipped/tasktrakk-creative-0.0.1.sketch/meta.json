@@ -34,9 +34,10 @@
     },
     "version": 121,
     "fonts": [
+        "Montserrat-Regular",
         "FontAwesome",
-        "Quicksand-Bold",
-        "Montserrat-Regular"
+        "Montserrat-Bold",
+        "Quicksand-Bold"
     ],
     "compatibilityVersion": 99,
     "app": "com.bohemiancoding.sketch3",
