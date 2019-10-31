@@ -1,6 +1,20 @@
 {
     "commit": "ebe35af5ba78090fd351ed427ecaafac003e0331",
     "pagesAndArtboards": {
+        "C9E691E7-F511-4A24-A612-DC76E63F5083": {
+            "name": "Symbols",
+            "artboards": {
+                "4B6235EF-2F13-4020-B0AD-6AF07D32074A": {
+                    "name": "Create Issue Form"
+                },
+                "0D8F86CF-AF5B-49D6-AFAC-AF4D85F2681C": {
+                    "name": "Left Navigation - Project 1"
+                },
+                "BFFACCB7-8833-4A47-B189-DCCCFCC8ED7B": {
+                    "name": "Left Navigation - Dashboard"
+                }
+            }
+        },
         "0AA36B15-EE12-4D0D-BCD2-D499943B16D2": {
             "name": "Dashboard",
             "artboards": {
@@ -8,12 +22,20 @@
                     "name": "Desktop HD"
                 }
             }
+        },
+        "17B46A14-52B8-4393-9BDA-FADA4A7013D2": {
+            "name": "Project 1",
+            "artboards": {
+                "16CF0119-066A-45AF-B0B9-5BAA4ABB7467": {
+                    "name": "Desktop HD"
+                }
+            }
         }
     },
     "version": 121,
     "fonts": [
-        "Quicksand-Bold",
         "FontAwesome",
+        "Quicksand-Bold",
         "Montserrat-Regular"
     ],
     "compatibilityVersion": 99,

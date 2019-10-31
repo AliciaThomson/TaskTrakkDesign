@@ -1,12 +1,46 @@
 {
     "0": {
         "_class": "attributedString",
-        "string": "Tooltip Arrows in Modal facing the wrong\u2026",
+        "string": "Second Project",
         "attributes": [
             {
                 "_class": "stringAttribute",
                 "location": 0,
-                "length": 41,
+                "length": 14,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 20
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.5450980392156862,
+                        "green": 0.4862745098039216,
+                        "red": 0.4980392156862745
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "53": {
+        "_class": "attributedString",
+        "string": "Milestone Two",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 13,
                 "attributes": {
                     "MSAttributedStringFontAttribute": {
                         "_class": "fontDescriptor",
@@ -33,109 +67,7 @@
             }
         ]
     },
-    "6": {
-        "_class": "attributedString",
-        "string": "Assign to",
-        "attributes": [
-            {
-                "_class": "stringAttribute",
-                "location": 0,
-                "length": 9,
-                "attributes": {
-                    "MSAttributedStringFontAttribute": {
-                        "_class": "fontDescriptor",
-                        "attributes": {
-                            "name": "Montserrat-Regular",
-                            "size": 20
-                        }
-                    },
-                    "MSAttributedStringColorAttribute": {
-                        "_class": "color",
-                        "alpha": 1,
-                        "blue": 0.393455615942029,
-                        "green": 0.1019325944044936,
-                        "red": 0.1602371987120005
-                    },
-                    "kerning": 0,
-                    "textStyleVerticalAlignmentKey": 0,
-                    "paragraphStyle": {
-                        "_class": "paragraphStyle",
-                        "alignment": 0,
-                        "allowsDefaultTighteningForTruncation": 0
-                    }
-                }
-            }
-        ]
-    },
-    "12": {
-        "_class": "attributedString",
-        "string": "TrakTime",
-        "attributes": [
-            {
-                "_class": "stringAttribute",
-                "location": 0,
-                "length": 8,
-                "attributes": {
-                    "MSAttributedStringFontAttribute": {
-                        "_class": "fontDescriptor",
-                        "attributes": {
-                            "name": "Quicksand-Bold",
-                            "size": 31
-                        }
-                    },
-                    "MSAttributedStringColorAttribute": {
-                        "_class": "color",
-                        "alpha": 1,
-                        "blue": 0.2921761775362319,
-                        "green": 0.0707335810898976,
-                        "red": 0.09997455331513745
-                    },
-                    "kerning": 0,
-                    "textStyleVerticalAlignmentKey": 0,
-                    "paragraphStyle": {
-                        "_class": "paragraphStyle",
-                        "alignment": 0,
-                        "allowsDefaultTighteningForTruncation": 0
-                    }
-                }
-            }
-        ]
-    },
-    "18": {
-        "_class": "attributedString",
-        "string": "Created 3 days ago by John Doe",
-        "attributes": [
-            {
-                "_class": "stringAttribute",
-                "location": 0,
-                "length": 30,
-                "attributes": {
-                    "MSAttributedStringFontAttribute": {
-                        "_class": "fontDescriptor",
-                        "attributes": {
-                            "name": "Montserrat-Regular",
-                            "size": 14
-                        }
-                    },
-                    "MSAttributedStringColorAttribute": {
-                        "_class": "color",
-                        "alpha": 1,
-                        "blue": 0.5450980392156862,
-                        "green": 0.4862745098039216,
-                        "red": 0.4980392156862745
-                    },
-                    "kerning": 0,
-                    "textStyleVerticalAlignmentKey": 0,
-                    "paragraphStyle": {
-                        "_class": "paragraphStyle",
-                        "alignment": 0,
-                        "allowsDefaultTighteningForTruncation": 0
-                    }
-                }
-            }
-        ]
-    },
-    "24": {
+    "52": {
         "_class": "attributedString",
         "string": "First Project",
         "attributes": [
@@ -169,7 +101,313 @@
             }
         ]
     },
-    "30": {
+    "51": {
+        "_class": "attributedString",
+        "string": "Severity",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 8,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 18
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "50": {
+        "_class": "attributedString",
+        "string": "\uf129",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "FontAwesome",
+                            "size": 15
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.7416213768115942,
+                        "green": 0.614446311672908,
+                        "red": 0.5296629349137836
+                    },
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": 0
+                }
+            }
+        ]
+    },
+    "49": {
+        "_class": "attributedString",
+        "string": "First Project",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 13,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 16
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "48": {
+        "_class": "attributedString",
+        "string": "Milestones",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 10,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 20
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.5450980392156862,
+                        "green": 0.4862745098039216,
+                        "red": 0.4980392156862745
+                    },
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": 0
+                }
+            }
+        ]
+    },
+    "47": {
+        "_class": "attributedString",
+        "string": "My Feed",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 7,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 20
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "46": {
+        "_class": "attributedString",
+        "string": "Label",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 5,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 18
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "45": {
+        "_class": "attributedString",
+        "string": "\uf0dd",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "FontAwesome",
+                            "size": 20
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": 0
+                }
+            }
+        ]
+    },
+    "44": {
+        "_class": "attributedString",
+        "string": "Created 3 days ago by John Doe",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 30,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 14
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.5450980392156862,
+                        "green": 0.4862745098039216,
+                        "red": 0.4980392156862745
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "43": {
+        "_class": "attributedString",
+        "string": "\uf067",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "FontAwesome",
+                            "size": 30
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": 0
+                }
+            }
+        ]
+    },
+    "42": {
         "_class": "attributedString",
         "string": "Milestones",
         "attributes": [
@@ -203,7 +441,279 @@
             }
         ]
     },
-    "1": {
+    "41": {
+        "_class": "attributedString",
+        "string": "Back button throws a 404 error",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 30,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 16
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "40": {
+        "_class": "attributedString",
+        "string": "\uf071",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "FontAwesome",
+                            "size": 13
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.5559064490924079,
+                        "green": 0.711265382556594,
+                        "red": 0.7478204257246377
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "39": {
+        "_class": "attributedString",
+        "string": "Milestone Two",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 13,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 16
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "38": {
+        "_class": "attributedString",
+        "string": "Milestone",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 9,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 18
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "37": {
+        "_class": "attributedString",
+        "string": "Dashboard",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 9,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 20
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.5450980392156862,
+                        "green": 0.4862745098039216,
+                        "red": 0.4980392156862745
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "36": {
+        "_class": "attributedString",
+        "string": "ADD",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 3,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 20
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 1,
+                        "green": 1,
+                        "red": 1
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "35": {
+        "_class": "attributedString",
+        "string": "\uf129",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "FontAwesome",
+                            "size": 15
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.7416213768115942,
+                        "green": 0.614446311672908,
+                        "red": 0.5296629349137836
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "34": {
+        "_class": "attributedString",
+        "string": "Second Project",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 14,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 20
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.5450980392156862,
+                        "green": 0.4862745098039216,
+                        "red": 0.4980392156862745
+                    },
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": 0
+                }
+            }
+        ]
+    },
+    "33": {
         "_class": "attributedString",
         "string": "Created 3 days ago by John Doe",
         "attributes": [
@@ -237,54 +747,20 @@
             }
         ]
     },
-    "7": {
+    "32": {
         "_class": "attributedString",
-        "string": "Dashboard",
+        "string": "Description",
         "attributes": [
             {
                 "_class": "stringAttribute",
                 "location": 0,
-                "length": 9,
+                "length": 11,
                 "attributes": {
                     "MSAttributedStringFontAttribute": {
                         "_class": "fontDescriptor",
                         "attributes": {
                             "name": "Montserrat-Regular",
-                            "size": 24
-                        }
-                    },
-                    "MSAttributedStringColorAttribute": {
-                        "_class": "color",
-                        "alpha": 1,
-                        "blue": 0.393455615942029,
-                        "green": 0.1019325944044936,
-                        "red": 0.1602371987120005
-                    },
-                    "textStyleVerticalAlignmentKey": 0,
-                    "paragraphStyle": {
-                        "_class": "paragraphStyle",
-                        "alignment": 0,
-                        "allowsDefaultTighteningForTruncation": 0
-                    },
-                    "kerning": 0
-                }
-            }
-        ]
-    },
-    "13": {
-        "_class": "attributedString",
-        "string": "Milestone",
-        "attributes": [
-            {
-                "_class": "stringAttribute",
-                "location": 0,
-                "length": 9,
-                "attributes": {
-                    "MSAttributedStringFontAttribute": {
-                        "_class": "fontDescriptor",
-                        "attributes": {
-                            "name": "Montserrat-Regular",
-                            "size": 20
+                            "size": 18
                         }
                     },
                     "MSAttributedStringColorAttribute": {
@@ -301,79 +777,147 @@
                         "alignment": 0,
                         "allowsDefaultTighteningForTruncation": 0
                     }
-                }
-            }
-        ]
-    },
-    "19": {
-        "_class": "attributedString",
-        "string": "Project",
-        "attributes": [
-            {
-                "_class": "stringAttribute",
-                "location": 0,
-                "length": 7,
-                "attributes": {
-                    "MSAttributedStringFontAttribute": {
-                        "_class": "fontDescriptor",
-                        "attributes": {
-                            "name": "Montserrat-Regular",
-                            "size": 20
-                        }
-                    },
-                    "MSAttributedStringColorAttribute": {
-                        "_class": "color",
-                        "alpha": 1,
-                        "blue": 0.393455615942029,
-                        "green": 0.1019325944044936,
-                        "red": 0.1602371987120005
-                    },
-                    "kerning": 0,
-                    "textStyleVerticalAlignmentKey": 0,
-                    "paragraphStyle": {
-                        "_class": "paragraphStyle",
-                        "alignment": 0,
-                        "allowsDefaultTighteningForTruncation": 0
-                    }
-                }
-            }
-        ]
-    },
-    "25": {
-        "_class": "attributedString",
-        "string": "Dashboard",
-        "attributes": [
-            {
-                "_class": "stringAttribute",
-                "location": 0,
-                "length": 9,
-                "attributes": {
-                    "MSAttributedStringFontAttribute": {
-                        "_class": "fontDescriptor",
-                        "attributes": {
-                            "name": "Montserrat-Regular",
-                            "size": 24
-                        }
-                    },
-                    "MSAttributedStringColorAttribute": {
-                        "_class": "color",
-                        "alpha": 1,
-                        "blue": 0.393455615942029,
-                        "green": 0.1019325944044936,
-                        "red": 0.1602371987120005
-                    },
-                    "textStyleVerticalAlignmentKey": 0,
-                    "paragraphStyle": {
-                        "_class": "paragraphStyle",
-                        "alignment": 0,
-                        "allowsDefaultTighteningForTruncation": 0
-                    },
-                    "kerning": 0
                 }
             }
         ]
     },
     "31": {
+        "_class": "attributedString",
+        "string": "Create New",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 10,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 28
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "30": {
+        "_class": "attributedString",
+        "string": "Milestone One",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 13,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 16
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "29": {
+        "_class": "attributedString",
+        "string": "Dashboard",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 9,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 28
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "28": {
+        "_class": "attributedString",
+        "string": "Milestone Three",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 15,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 16
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "27": {
         "_class": "attributedString",
         "string": "\uf0dd",
         "attributes": [
@@ -403,6 +947,822 @@
                         "allowsDefaultTighteningForTruncation": 0
                     },
                     "kerning": 0
+                }
+            }
+        ]
+    },
+    "26": {
+        "_class": "attributedString",
+        "string": "Created 3 days ago by John Doe",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 30,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 14
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.5450980392156862,
+                        "green": 0.4862745098039216,
+                        "red": 0.4980392156862745
+                    },
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": 0
+                }
+            }
+        ]
+    },
+    "25": {
+        "_class": "attributedString",
+        "string": "First Project",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 13,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 16
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "24": {
+        "_class": "attributedString",
+        "string": "Tooltip Arrows in Modal facing the wrong\u2026",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 41,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 16
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "23": {
+        "_class": "attributedString",
+        "string": "First Project",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 13,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 20
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "22": {
+        "_class": "attributedString",
+        "string": "Project",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 7,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 18
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "21": {
+        "_class": "attributedString",
+        "string": "Milestone Three",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 15,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 16
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "20": {
+        "_class": "attributedString",
+        "string": "Settings",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 8,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 20
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.5450980392156862,
+                        "green": 0.4862745098039216,
+                        "red": 0.4980392156862745
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "19": {
+        "_class": "attributedString",
+        "string": "Dropdown toggle requires two clicks",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 35,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 16
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "18": {
+        "_class": "attributedString",
+        "string": "TrakTime",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 8,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Quicksand-Bold",
+                            "size": 31
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.2921761775362319,
+                        "green": 0.0707335810898976,
+                        "red": 0.09997455331513745
+                    },
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": 0
+                }
+            }
+        ]
+    },
+    "17": {
+        "_class": "attributedString",
+        "string": "\uf0dd",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "FontAwesome",
+                            "size": 20
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "16": {
+        "_class": "attributedString",
+        "string": "\uf067",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "FontAwesome",
+                            "size": 30
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "15": {
+        "_class": "attributedString",
+        "string": "Milestone One",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 13,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 16
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "14": {
+        "_class": "attributedString",
+        "string": "\uf12a",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "FontAwesome",
+                            "size": 15
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.5479984692020355,
+                        "green": 0.5479984692020355,
+                        "red": 0.7864300271739131
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "13": {
+        "_class": "attributedString",
+        "string": "Created 3 days ago by John Doe",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 30,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 14
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.5450980392156862,
+                        "green": 0.4862745098039216,
+                        "red": 0.4980392156862745
+                    },
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": 0
+                }
+            }
+        ]
+    },
+    "12": {
+        "_class": "attributedString",
+        "string": "\uf0dd",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "FontAwesome",
+                            "size": 20
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": 0
+                }
+            }
+        ]
+    },
+    "11": {
+        "_class": "attributedString",
+        "string": "Dashboard",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 9,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 20
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "10": {
+        "_class": "attributedString",
+        "string": "First Project",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 13,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 20
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "9": {
+        "_class": "attributedString",
+        "string": "Assign to",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 9,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 18
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "8": {
+        "_class": "attributedString",
+        "string": "First Project",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 13,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 20
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.5450980392156862,
+                        "green": 0.4862745098039216,
+                        "red": 0.4980392156862745
+                    },
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": 0
+                }
+            }
+        ]
+    },
+    "7": {
+        "_class": "attributedString",
+        "string": "Settings",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 8,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 20
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.5450980392156862,
+                        "green": 0.4862745098039216,
+                        "red": 0.4980392156862745
+                    },
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": 0
+                }
+            }
+        ]
+    },
+    "6": {
+        "_class": "attributedString",
+        "string": "Tooltip unnecessarily breaks into multiple\u2026",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 43,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 16
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "5": {
+        "_class": "attributedString",
+        "string": "First Project",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 13,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 28
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "4": {
+        "_class": "attributedString",
+        "string": "Second Project",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 14,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Montserrat-Regular",
+                            "size": 20
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.393455615942029,
+                        "green": 0.1019325944044936,
+                        "red": 0.1602371987120005
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "3": {
+        "_class": "attributedString",
+        "string": "TrakTime",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 8,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "Quicksand-Bold",
+                            "size": 31
+                        }
+                    },
+                    "MSAttributedStringColorAttribute": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0.2921761775362319,
+                        "green": 0.0707335810898976,
+                        "red": 0.09997455331513745
+                    },
+                    "kerning": 0,
+                    "textStyleVerticalAlignmentKey": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
                 }
             }
         ]
@@ -441,177 +1801,7 @@
             }
         ]
     },
-    "8": {
-        "_class": "attributedString",
-        "string": "First Project",
-        "attributes": [
-            {
-                "_class": "stringAttribute",
-                "location": 0,
-                "length": 13,
-                "attributes": {
-                    "MSAttributedStringFontAttribute": {
-                        "_class": "fontDescriptor",
-                        "attributes": {
-                            "name": "Montserrat-Regular",
-                            "size": 16
-                        }
-                    },
-                    "MSAttributedStringColorAttribute": {
-                        "_class": "color",
-                        "alpha": 1,
-                        "blue": 0.393455615942029,
-                        "green": 0.1019325944044936,
-                        "red": 0.1602371987120005
-                    },
-                    "kerning": 0,
-                    "textStyleVerticalAlignmentKey": 0,
-                    "paragraphStyle": {
-                        "_class": "paragraphStyle",
-                        "alignment": 0,
-                        "allowsDefaultTighteningForTruncation": 0
-                    }
-                }
-            }
-        ]
-    },
-    "14": {
-        "_class": "attributedString",
-        "string": "Description",
-        "attributes": [
-            {
-                "_class": "stringAttribute",
-                "location": 0,
-                "length": 11,
-                "attributes": {
-                    "MSAttributedStringFontAttribute": {
-                        "_class": "fontDescriptor",
-                        "attributes": {
-                            "name": "Montserrat-Regular",
-                            "size": 20
-                        }
-                    },
-                    "MSAttributedStringColorAttribute": {
-                        "_class": "color",
-                        "alpha": 1,
-                        "blue": 0.393455615942029,
-                        "green": 0.1019325944044936,
-                        "red": 0.1602371987120005
-                    },
-                    "kerning": 0,
-                    "textStyleVerticalAlignmentKey": 0,
-                    "paragraphStyle": {
-                        "_class": "paragraphStyle",
-                        "alignment": 0,
-                        "allowsDefaultTighteningForTruncation": 0
-                    }
-                }
-            }
-        ]
-    },
-    "20": {
-        "_class": "attributedString",
-        "string": "Dropdown toggle requires two clicks",
-        "attributes": [
-            {
-                "_class": "stringAttribute",
-                "location": 0,
-                "length": 35,
-                "attributes": {
-                    "MSAttributedStringFontAttribute": {
-                        "_class": "fontDescriptor",
-                        "attributes": {
-                            "name": "Montserrat-Regular",
-                            "size": 16
-                        }
-                    },
-                    "MSAttributedStringColorAttribute": {
-                        "_class": "color",
-                        "alpha": 1,
-                        "blue": 0.393455615942029,
-                        "green": 0.1019325944044936,
-                        "red": 0.1602371987120005
-                    },
-                    "kerning": 0,
-                    "textStyleVerticalAlignmentKey": 0,
-                    "paragraphStyle": {
-                        "_class": "paragraphStyle",
-                        "alignment": 0,
-                        "allowsDefaultTighteningForTruncation": 0
-                    }
-                }
-            }
-        ]
-    },
-    "26": {
-        "_class": "attributedString",
-        "string": "\uf0dd",
-        "attributes": [
-            {
-                "_class": "stringAttribute",
-                "location": 0,
-                "length": 1,
-                "attributes": {
-                    "MSAttributedStringFontAttribute": {
-                        "_class": "fontDescriptor",
-                        "attributes": {
-                            "name": "FontAwesome",
-                            "size": 20
-                        }
-                    },
-                    "MSAttributedStringColorAttribute": {
-                        "_class": "color",
-                        "alpha": 1,
-                        "blue": 0.393455615942029,
-                        "green": 0.1019325944044936,
-                        "red": 0.1602371987120005
-                    },
-                    "kerning": 0,
-                    "textStyleVerticalAlignmentKey": 0,
-                    "paragraphStyle": {
-                        "_class": "paragraphStyle",
-                        "alignment": 2,
-                        "allowsDefaultTighteningForTruncation": 0
-                    }
-                }
-            }
-        ]
-    },
-    "32": {
-        "_class": "attributedString",
-        "string": "Tooltip unnecessarily breaks into multiple\u2026",
-        "attributes": [
-            {
-                "_class": "stringAttribute",
-                "location": 0,
-                "length": 43,
-                "attributes": {
-                    "MSAttributedStringFontAttribute": {
-                        "_class": "fontDescriptor",
-                        "attributes": {
-                            "name": "Montserrat-Regular",
-                            "size": 16
-                        }
-                    },
-                    "MSAttributedStringColorAttribute": {
-                        "_class": "color",
-                        "alpha": 1,
-                        "blue": 0.393455615942029,
-                        "green": 0.1019325944044936,
-                        "red": 0.1602371987120005
-                    },
-                    "kerning": 0,
-                    "textStyleVerticalAlignmentKey": 0,
-                    "paragraphStyle": {
-                        "_class": "paragraphStyle",
-                        "alignment": 0,
-                        "allowsDefaultTighteningForTruncation": 0
-                    }
-                }
-            }
-        ]
-    },
-    "3": {
+    "1": {
         "_class": "attributedString",
         "string": "Second Project",
         "attributes": [
@@ -641,516 +1831,6 @@
                         "alignment": 1,
                         "allowsDefaultTighteningForTruncation": 0
                     }
-                }
-            }
-        ]
-    },
-    "9": {
-        "_class": "attributedString",
-        "string": "My Feed",
-        "attributes": [
-            {
-                "_class": "stringAttribute",
-                "location": 0,
-                "length": 7,
-                "attributes": {
-                    "MSAttributedStringFontAttribute": {
-                        "_class": "fontDescriptor",
-                        "attributes": {
-                            "name": "Montserrat-Regular",
-                            "size": 20
-                        }
-                    },
-                    "MSAttributedStringColorAttribute": {
-                        "_class": "color",
-                        "alpha": 1,
-                        "blue": 0.393455615942029,
-                        "green": 0.1019325944044936,
-                        "red": 0.1602371987120005
-                    },
-                    "kerning": 0,
-                    "textStyleVerticalAlignmentKey": 0,
-                    "paragraphStyle": {
-                        "_class": "paragraphStyle",
-                        "alignment": 0,
-                        "allowsDefaultTighteningForTruncation": 0
-                    }
-                }
-            }
-        ]
-    },
-    "15": {
-        "_class": "attributedString",
-        "string": "Settings",
-        "attributes": [
-            {
-                "_class": "stringAttribute",
-                "location": 0,
-                "length": 8,
-                "attributes": {
-                    "MSAttributedStringFontAttribute": {
-                        "_class": "fontDescriptor",
-                        "attributes": {
-                            "name": "Montserrat-Regular",
-                            "size": 20
-                        }
-                    },
-                    "MSAttributedStringColorAttribute": {
-                        "_class": "color",
-                        "alpha": 1,
-                        "blue": 0.5450980392156862,
-                        "green": 0.4862745098039216,
-                        "red": 0.4980392156862745
-                    },
-                    "kerning": 0,
-                    "textStyleVerticalAlignmentKey": 0,
-                    "paragraphStyle": {
-                        "_class": "paragraphStyle",
-                        "alignment": 0,
-                        "allowsDefaultTighteningForTruncation": 0
-                    }
-                }
-            }
-        ]
-    },
-    "21": {
-        "_class": "attributedString",
-        "string": "Created 3 days ago by John Doe",
-        "attributes": [
-            {
-                "_class": "stringAttribute",
-                "location": 0,
-                "length": 30,
-                "attributes": {
-                    "MSAttributedStringFontAttribute": {
-                        "_class": "fontDescriptor",
-                        "attributes": {
-                            "name": "Montserrat-Regular",
-                            "size": 14
-                        }
-                    },
-                    "MSAttributedStringColorAttribute": {
-                        "_class": "color",
-                        "alpha": 1,
-                        "blue": 0.5450980392156862,
-                        "green": 0.4862745098039216,
-                        "red": 0.4980392156862745
-                    },
-                    "textStyleVerticalAlignmentKey": 0,
-                    "paragraphStyle": {
-                        "_class": "paragraphStyle",
-                        "alignment": 0,
-                        "allowsDefaultTighteningForTruncation": 0
-                    },
-                    "kerning": 0
-                }
-            }
-        ]
-    },
-    "27": {
-        "_class": "attributedString",
-        "string": "ADD",
-        "attributes": [
-            {
-                "_class": "stringAttribute",
-                "location": 0,
-                "length": 3,
-                "attributes": {
-                    "MSAttributedStringFontAttribute": {
-                        "_class": "fontDescriptor",
-                        "attributes": {
-                            "name": "Montserrat-Regular",
-                            "size": 20
-                        }
-                    },
-                    "MSAttributedStringColorAttribute": {
-                        "_class": "color",
-                        "alpha": 1,
-                        "blue": 1,
-                        "green": 1,
-                        "red": 1
-                    },
-                    "kerning": 0,
-                    "textStyleVerticalAlignmentKey": 0,
-                    "paragraphStyle": {
-                        "_class": "paragraphStyle",
-                        "alignment": 2,
-                        "allowsDefaultTighteningForTruncation": 0
-                    }
-                }
-            }
-        ]
-    },
-    "33": {
-        "_class": "attributedString",
-        "string": "First Project",
-        "attributes": [
-            {
-                "_class": "stringAttribute",
-                "location": 0,
-                "length": 13,
-                "attributes": {
-                    "MSAttributedStringFontAttribute": {
-                        "_class": "fontDescriptor",
-                        "attributes": {
-                            "name": "Montserrat-Regular",
-                            "size": 20
-                        }
-                    },
-                    "MSAttributedStringColorAttribute": {
-                        "_class": "color",
-                        "alpha": 1,
-                        "blue": 0.5450980392156862,
-                        "green": 0.4862745098039216,
-                        "red": 0.4980392156862745
-                    },
-                    "kerning": 0,
-                    "textStyleVerticalAlignmentKey": 0,
-                    "paragraphStyle": {
-                        "_class": "paragraphStyle",
-                        "alignment": 0,
-                        "allowsDefaultTighteningForTruncation": 0
-                    }
-                }
-            }
-        ]
-    },
-    "4": {
-        "_class": "attributedString",
-        "string": "Label",
-        "attributes": [
-            {
-                "_class": "stringAttribute",
-                "location": 0,
-                "length": 5,
-                "attributes": {
-                    "MSAttributedStringFontAttribute": {
-                        "_class": "fontDescriptor",
-                        "attributes": {
-                            "name": "Montserrat-Regular",
-                            "size": 20
-                        }
-                    },
-                    "MSAttributedStringColorAttribute": {
-                        "_class": "color",
-                        "alpha": 1,
-                        "blue": 0.393455615942029,
-                        "green": 0.1019325944044936,
-                        "red": 0.1602371987120005
-                    },
-                    "kerning": 0,
-                    "textStyleVerticalAlignmentKey": 0,
-                    "paragraphStyle": {
-                        "_class": "paragraphStyle",
-                        "alignment": 0,
-                        "allowsDefaultTighteningForTruncation": 0
-                    }
-                }
-            }
-        ]
-    },
-    "10": {
-        "_class": "attributedString",
-        "string": "Link requires hover state",
-        "attributes": [
-            {
-                "_class": "stringAttribute",
-                "location": 0,
-                "length": 25,
-                "attributes": {
-                    "MSAttributedStringFontAttribute": {
-                        "_class": "fontDescriptor",
-                        "attributes": {
-                            "name": "Montserrat-Regular",
-                            "size": 16
-                        }
-                    },
-                    "MSAttributedStringColorAttribute": {
-                        "_class": "color",
-                        "alpha": 1,
-                        "blue": 0.393455615942029,
-                        "green": 0.1019325944044936,
-                        "red": 0.1602371987120005
-                    },
-                    "kerning": 0,
-                    "textStyleVerticalAlignmentKey": 0,
-                    "paragraphStyle": {
-                        "_class": "paragraphStyle",
-                        "alignment": 0,
-                        "allowsDefaultTighteningForTruncation": 0
-                    }
-                }
-            }
-        ]
-    },
-    "16": {
-        "_class": "attributedString",
-        "string": "Created 3 days ago by John Doe",
-        "attributes": [
-            {
-                "_class": "stringAttribute",
-                "location": 0,
-                "length": 30,
-                "attributes": {
-                    "MSAttributedStringFontAttribute": {
-                        "_class": "fontDescriptor",
-                        "attributes": {
-                            "name": "Montserrat-Regular",
-                            "size": 14
-                        }
-                    },
-                    "MSAttributedStringColorAttribute": {
-                        "_class": "color",
-                        "alpha": 1,
-                        "blue": 0.5450980392156862,
-                        "green": 0.4862745098039216,
-                        "red": 0.4980392156862745
-                    },
-                    "textStyleVerticalAlignmentKey": 0,
-                    "paragraphStyle": {
-                        "_class": "paragraphStyle",
-                        "alignment": 0,
-                        "allowsDefaultTighteningForTruncation": 0
-                    },
-                    "kerning": 0
-                }
-            }
-        ]
-    },
-    "22": {
-        "_class": "attributedString",
-        "string": "Dashboard",
-        "attributes": [
-            {
-                "_class": "stringAttribute",
-                "location": 0,
-                "length": 9,
-                "attributes": {
-                    "MSAttributedStringFontAttribute": {
-                        "_class": "fontDescriptor",
-                        "attributes": {
-                            "name": "Montserrat-Regular",
-                            "size": 20
-                        }
-                    },
-                    "MSAttributedStringColorAttribute": {
-                        "_class": "color",
-                        "alpha": 1,
-                        "blue": 0.5450980392156862,
-                        "green": 0.4862745098039216,
-                        "red": 0.4980392156862745
-                    },
-                    "kerning": 0,
-                    "textStyleVerticalAlignmentKey": 0,
-                    "paragraphStyle": {
-                        "_class": "paragraphStyle",
-                        "alignment": 0,
-                        "allowsDefaultTighteningForTruncation": 0
-                    }
-                }
-            }
-        ]
-    },
-    "28": {
-        "_class": "attributedString",
-        "string": "Severity",
-        "attributes": [
-            {
-                "_class": "stringAttribute",
-                "location": 0,
-                "length": 8,
-                "attributes": {
-                    "MSAttributedStringFontAttribute": {
-                        "_class": "fontDescriptor",
-                        "attributes": {
-                            "name": "Montserrat-Regular",
-                            "size": 20
-                        }
-                    },
-                    "MSAttributedStringColorAttribute": {
-                        "_class": "color",
-                        "alpha": 1,
-                        "blue": 0.393455615942029,
-                        "green": 0.1019325944044936,
-                        "red": 0.1602371987120005
-                    },
-                    "kerning": 0,
-                    "textStyleVerticalAlignmentKey": 0,
-                    "paragraphStyle": {
-                        "_class": "paragraphStyle",
-                        "alignment": 0,
-                        "allowsDefaultTighteningForTruncation": 0
-                    }
-                }
-            }
-        ]
-    },
-    "5": {
-        "_class": "attributedString",
-        "string": "Created 3 days ago by John Doe",
-        "attributes": [
-            {
-                "_class": "stringAttribute",
-                "location": 0,
-                "length": 30,
-                "attributes": {
-                    "MSAttributedStringFontAttribute": {
-                        "_class": "fontDescriptor",
-                        "attributes": {
-                            "name": "Montserrat-Regular",
-                            "size": 14
-                        }
-                    },
-                    "MSAttributedStringColorAttribute": {
-                        "_class": "color",
-                        "alpha": 1,
-                        "blue": 0.5450980392156862,
-                        "green": 0.4862745098039216,
-                        "red": 0.4980392156862745
-                    },
-                    "textStyleVerticalAlignmentKey": 0,
-                    "paragraphStyle": {
-                        "_class": "paragraphStyle",
-                        "alignment": 0,
-                        "allowsDefaultTighteningForTruncation": 0
-                    },
-                    "kerning": 0
-                }
-            }
-        ]
-    },
-    "11": {
-        "_class": "attributedString",
-        "string": "Second Project",
-        "attributes": [
-            {
-                "_class": "stringAttribute",
-                "location": 0,
-                "length": 14,
-                "attributes": {
-                    "MSAttributedStringFontAttribute": {
-                        "_class": "fontDescriptor",
-                        "attributes": {
-                            "name": "Montserrat-Regular",
-                            "size": 20
-                        }
-                    },
-                    "MSAttributedStringColorAttribute": {
-                        "_class": "color",
-                        "alpha": 1,
-                        "blue": 0.5450980392156862,
-                        "green": 0.4862745098039216,
-                        "red": 0.4980392156862745
-                    },
-                    "kerning": 0,
-                    "textStyleVerticalAlignmentKey": 0,
-                    "paragraphStyle": {
-                        "_class": "paragraphStyle",
-                        "alignment": 0,
-                        "allowsDefaultTighteningForTruncation": 0
-                    }
-                }
-            }
-        ]
-    },
-    "17": {
-        "_class": "attributedString",
-        "string": "Dashboard",
-        "attributes": [
-            {
-                "_class": "stringAttribute",
-                "location": 0,
-                "length": 9,
-                "attributes": {
-                    "MSAttributedStringFontAttribute": {
-                        "_class": "fontDescriptor",
-                        "attributes": {
-                            "name": "Montserrat-Regular",
-                            "size": 28
-                        }
-                    },
-                    "MSAttributedStringColorAttribute": {
-                        "_class": "color",
-                        "alpha": 1,
-                        "blue": 0.393455615942029,
-                        "green": 0.1019325944044936,
-                        "red": 0.1602371987120005
-                    },
-                    "kerning": 0,
-                    "textStyleVerticalAlignmentKey": 0,
-                    "paragraphStyle": {
-                        "_class": "paragraphStyle",
-                        "alignment": 0,
-                        "allowsDefaultTighteningForTruncation": 0
-                    }
-                }
-            }
-        ]
-    },
-    "23": {
-        "_class": "attributedString",
-        "string": "First Project",
-        "attributes": [
-            {
-                "_class": "stringAttribute",
-                "location": 0,
-                "length": 13,
-                "attributes": {
-                    "MSAttributedStringFontAttribute": {
-                        "_class": "fontDescriptor",
-                        "attributes": {
-                            "name": "Montserrat-Regular",
-                            "size": 16
-                        }
-                    },
-                    "MSAttributedStringColorAttribute": {
-                        "_class": "color",
-                        "alpha": 1,
-                        "blue": 0.393455615942029,
-                        "green": 0.1019325944044936,
-                        "red": 0.1602371987120005
-                    },
-                    "kerning": 0,
-                    "textStyleVerticalAlignmentKey": 0,
-                    "paragraphStyle": {
-                        "_class": "paragraphStyle",
-                        "alignment": 0,
-                        "allowsDefaultTighteningForTruncation": 0
-                    }
-                }
-            }
-        ]
-    },
-    "29": {
-        "_class": "attributedString",
-        "string": "\uf0dd",
-        "attributes": [
-            {
-                "_class": "stringAttribute",
-                "location": 0,
-                "length": 1,
-                "attributes": {
-                    "MSAttributedStringFontAttribute": {
-                        "_class": "fontDescriptor",
-                        "attributes": {
-                            "name": "FontAwesome",
-                            "size": 20
-                        }
-                    },
-                    "MSAttributedStringColorAttribute": {
-                        "_class": "color",
-                        "alpha": 1,
-                        "blue": 0.393455615942029,
-                        "green": 0.1019325944044936,
-                        "red": 0.1602371987120005
-                    },
-                    "textStyleVerticalAlignmentKey": 0,
-                    "paragraphStyle": {
-                        "_class": "paragraphStyle",
-                        "alignment": 2,
-                        "allowsDefaultTighteningForTruncation": 0
-                    },
-                    "kerning": 0
                 }
             }
         ]
