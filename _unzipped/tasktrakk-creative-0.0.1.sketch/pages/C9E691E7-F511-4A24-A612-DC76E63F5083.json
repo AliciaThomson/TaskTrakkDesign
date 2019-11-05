@@ -525,7 +525,7 @@
                             "isFlippedVertical": false,
                             "isLocked": false,
                             "isVisible": true,
-                            "layerListExpandedType": 1,
+                            "layerListExpandedType": 0,
                             "maintainScrollPosition": false,
                             "name": "Settings",
                             "nameIsFixed": true,
@@ -760,7 +760,17 @@
                                         "includedLayerIds": [],
                                         "layerOptions": 0,
                                         "shouldTrim": false,
-                                        "exportFormats": []
+                                        "exportFormats": [
+                                            {
+                                                "_class": "exportFormat",
+                                                "absoluteSize": 0,
+                                                "fileFormat": "svg",
+                                                "name": "",
+                                                "namingScheme": 0,
+                                                "scale": 1,
+                                                "visibleScaleType": 0
+                                            }
+                                        ]
                                     },
                                     "frame": {
                                         "_class": "rect",
@@ -3045,7 +3055,7 @@
                             "isFlippedVertical": false,
                             "isLocked": false,
                             "isVisible": true,
-                            "layerListExpandedType": 1,
+                            "layerListExpandedType": 0,
                             "maintainScrollPosition": false,
                             "name": "Milestones",
                             "nameIsFixed": true,
@@ -3280,7 +3290,17 @@
                                         "includedLayerIds": [],
                                         "layerOptions": 0,
                                         "shouldTrim": false,
-                                        "exportFormats": []
+                                        "exportFormats": [
+                                            {
+                                                "_class": "exportFormat",
+                                                "absoluteSize": 0,
+                                                "fileFormat": "svg",
+                                                "name": "",
+                                                "namingScheme": 0,
+                                                "scale": 1,
+                                                "visibleScaleType": 0
+                                            }
+                                        ]
                                     },
                                     "frame": {
                                         "_class": "rect",
@@ -4786,7 +4806,7 @@
                             "isFlippedVertical": false,
                             "isLocked": false,
                             "isVisible": true,
-                            "layerListExpandedType": 1,
+                            "layerListExpandedType": 0,
                             "maintainScrollPosition": false,
                             "name": "Second Project",
                             "nameIsFixed": true,
@@ -6304,7 +6324,17 @@
                                         "includedLayerIds": [],
                                         "layerOptions": 0,
                                         "shouldTrim": false,
-                                        "exportFormats": []
+                                        "exportFormats": [
+                                            {
+                                                "_class": "exportFormat",
+                                                "absoluteSize": 0,
+                                                "fileFormat": "svg",
+                                                "name": "",
+                                                "namingScheme": 0,
+                                                "scale": 1,
+                                                "visibleScaleType": 0
+                                            }
+                                        ]
                                     },
                                     "frame": {
                                         "_class": "rect",
@@ -7124,7 +7154,7 @@
                             "isFlippedVertical": false,
                             "isLocked": false,
                             "isVisible": true,
-                            "layerListExpandedType": 1,
+                            "layerListExpandedType": 0,
                             "maintainScrollPosition": false,
                             "name": "Dashboard",
                             "nameIsFixed": true,
@@ -7359,7 +7389,17 @@
                                         "includedLayerIds": [],
                                         "layerOptions": 0,
                                         "shouldTrim": false,
-                                        "exportFormats": []
+                                        "exportFormats": [
+                                            {
+                                                "_class": "exportFormat",
+                                                "absoluteSize": 0,
+                                                "fileFormat": "svg",
+                                                "name": "",
+                                                "namingScheme": 0,
+                                                "scale": 1,
+                                                "visibleScaleType": 0
+                                            }
+                                        ]
                                     },
                                     "frame": {
                                         "_class": "rect",
@@ -9089,7 +9129,17 @@
                                 "includedLayerIds": [],
                                 "layerOptions": 0,
                                 "shouldTrim": false,
-                                "exportFormats": []
+                                "exportFormats": [
+                                    {
+                                        "_class": "exportFormat",
+                                        "absoluteSize": 0,
+                                        "fileFormat": "svg",
+                                        "name": "",
+                                        "namingScheme": 0,
+                                        "scale": 1,
+                                        "visibleScaleType": 0
+                                    }
+                                ]
                             },
                             "frame": {
                                 "_class": "rect",
@@ -10771,7 +10821,7 @@
             },
             "includeBackgroundColorInInstance": false,
             "symbolID": "061C5EE1-5533-4835-82E3-BFAAE0BCDFFD",
-            "changeIdentifier": 899,
+            "changeIdentifier": 909,
             "overrideProperties": [
                 {
                     "_class": "MSImmutableOverrideProperty",
@@ -23782,7 +23832,17 @@
                                 "includedLayerIds": [],
                                 "layerOptions": 0,
                                 "shouldTrim": false,
-                                "exportFormats": []
+                                "exportFormats": [
+                                    {
+                                        "_class": "exportFormat",
+                                        "absoluteSize": 0,
+                                        "fileFormat": "png",
+                                        "name": "",
+                                        "namingScheme": 0,
+                                        "scale": 1,
+                                        "visibleScaleType": 0
+                                    }
+                                ]
                             },
                             "frame": {
                                 "_class": "rect",
@@ -25529,7 +25589,7 @@
             },
             "includeBackgroundColorInInstance": false,
             "symbolID": "B0E9AE84-965F-4D6B-AB6E-A0D22CF51C9B",
-            "changeIdentifier": 59,
+            "changeIdentifier": 62,
             "overrideProperties": [
                 {
                     "_class": "MSImmutableOverrideProperty",
